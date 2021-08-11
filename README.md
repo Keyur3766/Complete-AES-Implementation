@@ -1,3 +1,3 @@
 # Complete-AES-Implementation
 
-Please read instruction.docx ti run the encryption and decryption
+Please read instruction.docx to run the encryption and decryption
