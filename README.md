@@ -1,7 +1,14 @@
 # Complete-AES-Implementation
 
-Please read instruction.docx to run the encryption and decryption.    
+
+This project aims to implement well known AES - 128-bit encryption technique. Using this project, the user can
+encrypt audio, video, and text files with the help of a key provided by the user. The person can only decrypt the file or
+message if he knows the encryption key. After encryption, Nobody can open or decrypt it in between. This project uses the
+concept of Linear algebra concepts in a very efficient way. The message will be transformed into a matrix of 128 bits and
+encrypted using matrix transformation.
+
 <br>
+
 
 Advanced Encryption Standard (AES) algorithm is one of the most sophisticated block ciphers used worldwide. The report explains crucial steps of encryption and decryption of plaintext and any other file format such as .txt, .pdf, .docx, .pptx, .xlsx, .mp4, .flv,.mp3, with example in each process along with some of the changes in the methods.
 
